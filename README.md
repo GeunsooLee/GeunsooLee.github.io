@@ -1,4 +1,4 @@
-# GeunSooLee
+# DGSTUDIO
 
 앱 안내 페이지와 AdMob `app-ads.txt` 를 GitHub Pages 로 공개합니다.
 
