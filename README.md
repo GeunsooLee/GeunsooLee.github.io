@@ -4,4 +4,5 @@
 
 - 종이결: https://geunsoolee.github.io/jonggyeol/
 - My Own Roguelike RPG (이용약관·개인정보처리방침): https://geunsoolee.github.io/my-own-roguelike-rpg/
+- 마블리파이 Marblify (이용약관·개인정보처리방침): https://geunsoolee.github.io/marblify/
 - app-ads.txt: https://geunsoolee.github.io/app-ads.txt
