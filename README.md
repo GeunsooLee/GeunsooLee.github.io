@@ -6,4 +6,5 @@
 - My Own Roguelike RPG (이용약관·개인정보처리방침): https://geunsoolee.github.io/my-own-roguelike-rpg/
 - 마블리파이 Marblify (이용약관·개인정보처리방침): https://geunsoolee.github.io/marblify/
 - 핀위브 Pinweave (이용약관·개인정보처리방침, 9개 언어): https://geunsoolee.github.io/pinweave/
+- 브리콜로 Brickolo (이용약관·개인정보처리방침, 9개 언어): https://geunsoolee.github.io/brickolo/
 - app-ads.txt: https://geunsoolee.github.io/app-ads.txt
