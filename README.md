@@ -10,5 +10,6 @@
 - 펄리파이 Purlify (이용약관·개인정보처리방침, 9개 언어): https://geunsoolee.github.io/purlify/
 - 린시파이 Rinsify (이용약관·개인정보처리방침, 5개 언어): https://geunsoolee.github.io/rinsify/
 - 듀니파이 Dunify (이용약관·개인정보처리방침, 7개 언어): https://geunsoolee.github.io/dunify/
+- 노티파이 Knotify (이용약관·개인정보처리방침, 7개 언어): https://geunsoolee.github.io/knotify/
 - 무기디펜스 Weapon Defense (이용약관·개인정보처리방침, 2개 언어): https://geunsoolee.github.io/weapondefense/
 - app-ads.txt: https://geunsoolee.github.io/app-ads.txt
