@@ -13,6 +13,7 @@
 - 노티파이 Knotify (이용약관·개인정보처리방침, 7개 언어): https://geunsoolee.github.io/knotify/
 - 모위파이 Mowify (이용약관·개인정보처리방침, 7개 언어): https://geunsoolee.github.io/mowify/
 - 스카이루미 Skylumi (이용약관·개인정보처리방침, 7개 언어): https://geunsoolee.github.io/skylumi/
+- 퍼즐 천국 Puzzle Heaven (이용약관·개인정보처리방침, 5개 언어): https://geunsoolee.github.io/puzzleheaven/
 - 우주까지 낚아라 Reel to the Stars (이용약관·개인정보처리방침, 7개 언어): https://geunsoolee.github.io/reeltothestars/
 - 무기디펜스 Weapon Defense (이용약관·개인정보처리방침, 2개 언어): https://geunsoolee.github.io/weapondefense/
 - app-ads.txt: https://geunsoolee.github.io/app-ads.txt
